@@ -16,7 +16,7 @@
 
 Una volta aggiungi come collaboratori alla pagina di sala, potete finalmente modificare ed aggiungere informazioni a vostro piacimento.
 
-1. Aprire la pagina https://github.com/infosaam/<nome-sala>
+1. Aprire la pagina https://github.com/infosaam/nome-sala
 2. Cliccare sull'icona di modifica
 3. Modificare a piacimento
 4. Salvare cliccando sul bottone verde **Commit changes** in fondo alla pagina
