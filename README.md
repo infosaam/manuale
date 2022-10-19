@@ -1,15 +1,55 @@
 # Sala di Cesena
 
 <div>   
-<button type="button" class="collapsible active">+ Orario lezioni</button>
+<button type="button" class="collapsible active">+ Creazione account</button>
 <div class="content" style="display: none;" markdown="1">
 
-- Martedì: ore 20.30 - 23.00
-- Giovedì: ore 20.45 - 23.00
+- Registrarsi a [GitHub](https://github.com)
+- Mandare una mail a [rubentura@proton.me](mailto:rubentura@proton.me) indicando il nome utente, e richiedendo accesso alla pagina relativa alla propria sala (nel caso in cui la pagina non esista ancora, provvederò io alla sua creazione)
+- Attendere la conferma, per poi accedere a [GitHub](https://github.com), controllare le notifiche nell'apposito bottone in alto a destra, ed accettare l'invito a collaborare
 </div>
 </div>
 
+<div>   
+<button type="button" class="collapsible active">+ Modifica pagina</button>
+<div class="content" style="display: none;" markdown="1">
 
+Una volta aggiungi come collaboratori alla pagina di sala, potete finalmente modificare ed aggiungere informazioni a vostro piacimento.
+
+1. Aprire la pagina https://github.com/infosaam/<nome-sala>
+2. Cliccare sull'icona di modifica
+3. Modificare a piacimento
+4. Salvare cliccando sul bottone verde **Commit changes** in fondo alla pagina
+</div>
+</div>
+
+<div>   
+<button type="button" class="collapsible active">+ Informazioni utili</button>
+<div class="content" style="display: none;" markdown="1">
+
+Queste pagine sfruttano una sintassi relativamente comprensibile, in modo da permettere anche ad utenti non necessariamente esperti di potersi gestire in autonomia la propria pagina. Ecco alcune informazioni utili:
+
+Innanzitutto, per rendere la pagina più facilmente navigabile, ogni sezione è espandibile con un semplice click. Come si inserisce una nuova sezione? Semplice! 
+Il template è questo:
+
+```html
+<div>   
+<button type="button" class="collapsible active">+ TITOLO SEZIONE</button>
+<div class="content" style="display: none;" markdown="1">
+
+ROBE ROBE INFORMAZIONI GHISA
+</div>
+</div>
+```
+Potete tranquillamente ignorare tutte le scritte che non capite, e sostituire il titolo della sezione, e il contenuto stesso.
+
+Per quanto riguarda la formattazione:
+- Elenchi puntati: basta iniziare la riga con il trattino (-), e lasciare uno spazio
+- Elenchi numerati: basta iniziare la riga con il numero seguito da un punto (1.), e lasciare uno spazio
+- Grassetto: inserire la parola fra doppi asterischi (`**PAROLONA**`)
+- Link: inserire la scritta che va mostrata a schermo fra parentesi quadre, e il link da seguire fra parentesi tonde, senza spazi fra i blocchi de parentesi (`[testo](https://www.ghisa.com)`)
+</div>
+</div>
 
 <script type="text/javascript">
 
