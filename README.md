@@ -1,4 +1,4 @@
-# Sala di Cesena
+# Manuale d'Uso
 
 <div>   
 <button type="button" class="collapsible active">+ Creazione account</button>
@@ -7,6 +7,15 @@
 - Registrarsi a [GitHub](https://github.com)
 - Mandare una mail a [rubentura@proton.me](mailto:rubentura@proton.me) indicando il nome utente, e richiedendo accesso alla pagina relativa alla propria sala (nel caso in cui la pagina non esista ancora, provvederò io alla sua creazione)
 - Attendere la conferma, per poi accedere a [GitHub](https://github.com), controllare le notifiche nell'apposito bottone in alto a destra, ed accettare l'invito a collaborare
+<div>   
+<button type="button" class="collapsible active">+ Screenshots</button>
+<div class="content" style="display: none;" markdown="1">
+
+![](/assets/img/gif1.png)
+![](/assets/img/gif2.png)
+![](/assets/img/gif3.png)
+</div>
+</div>
 </div>
 </div>
 
@@ -18,7 +27,7 @@ Una volta aggiungi come collaboratori alla pagina di sala, potete finalmente mod
 
 1. Aprire la pagina https://github.com/infosaam/nome-sala
 2. Cliccare sull'icona di modifica
-3. Modificare a piacimento
+3. Modificare a piacimento (NB: C'è una sezione, alla fine del file, racchiusa fra le parole `script`. Non va assolutamente modificata, e va lasciata alla fine. Inserite tutti ciò che volete **prima** di tale sezione.)
 4. Salvare cliccando sul bottone verde **Commit changes** in fondo alla pagina
 </div>
 </div>
