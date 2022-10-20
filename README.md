@@ -62,6 +62,18 @@ Per quanto riguarda la formattazione:
 </div>
 </div>
 
+<div>   
+<button type="button" class="collapsible active">+ Video tutorial</button>
+<div class="content" style="display: none;" markdown="1">
+
+## Tutorial generico
+<iframe src="https://www.youtube.com/watch?v=6OrE5Q6-oXw"></iframe>
+
+## Tutorial immagini
+<iframe src="https://www.youtube.com/watch?v=8iBo5ZGpm14"></iframe>
+</div>
+</div>
+
 <script type="text/javascript">
 
     function loadCSS(filename){ 
