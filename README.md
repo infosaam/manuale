@@ -68,6 +68,7 @@ Per quanto riguarda la formattazione:
 
 ## Tutorial generico
 <iframe src="https://www.youtube.com/watch?v=6OrE5Q6-oXw"></iframe>
+<iframe width="1536" height="534" src="https://www.youtube.com/embed/6OrE5Q6-oXw" title="Tutorial infosaam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tutorial immagini
 <iframe src="https://www.youtube.com/watch?v=8iBo5ZGpm14"></iframe>
